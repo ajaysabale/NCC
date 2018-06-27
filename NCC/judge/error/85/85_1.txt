@@ -1,0 +1,8 @@
+/home/ajay/NCC/judge/user/85/1/85_1.cpp:2:7: error: expected nested-name-specifier before ‘namespac’
+ using namespac
+       ^
+/home/ajay/NCC/judge/user/85/1/85_1.cpp:2:7: error: ‘namespac’ has not been declared
+/home/ajay/NCC/judge/user/85/1/85_1.cpp:3:1: error: expected ‘;’ before ‘}’ token
+ }
+ ^
+/home/ajay/NCC/judge/user/85/1/85_1.cpp:3:1: error: expected declaration before ‘}’ token

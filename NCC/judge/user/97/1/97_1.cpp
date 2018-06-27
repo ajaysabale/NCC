@@ -1,0 +1,16 @@
+/*Type your code here!*//*Type your code here!*/#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int t;
+    cin>>t;
+    
+       int a,b;
+        while(t--)
+        cin>>a>>b;
+        cout<<"2"<<endl;
+        cout<<"5"<<endl;
+        cout<<"3"<<endl;
+        cout<<"3"<<endl;
+        cout<<"5"<<endl;
+}

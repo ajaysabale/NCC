@@ -1,0 +1,13 @@
+/home/saurabh/CTD/NCC/judge/user/18/1/18_1.c: In function ‘main’:
+/home/saurabh/CTD/NCC/judge/user/18/1/18_1.c:8:16: warning: missing terminating " character
+         printf("%d\",b);
+                ^
+/home/saurabh/CTD/NCC/judge/user/18/1/18_1.c:8:9: error: missing terminating " character
+         printf("%d\",b);
+         ^
+/home/saurabh/CTD/NCC/judge/user/18/1/18_1.c:9:9: error: expected expression before ‘else’
+         else
+         ^
+/home/saurabh/CTD/NCC/judge/user/18/1/18_1.c:11:5: error: expected ‘;’ before ‘}’ token
+     }
+     ^
